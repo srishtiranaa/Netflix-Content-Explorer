@@ -21,9 +21,9 @@ Interactive Netflix EDA dashboard with Streamlit
 
 ## 🏷️ Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [Kaggle](https://kaggle.com/yourusername)
+**Srishti Rana**  
+📧 srishtiranaa28@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/srishti-rana-ab4641305/) 
 
 ---
 
